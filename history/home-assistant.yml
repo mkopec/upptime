@@ -1,7 +1,7 @@
 url: https://hass.nozomi.space
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2025-09-27T16:23:18.173Z
+status: down
+code: 502
+responseTime: 741
+lastUpdated: 2025-09-27T16:41:08.184Z
 startTime: 2025-09-21T13:57:30.150Z
 generator: Upptime <https://github.com/upptime/upptime>
