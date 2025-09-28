@@ -1,7 +1,7 @@
 url: https://auth.nozomi.space
-status: up
-code: 200
-responseTime: 1258
-lastUpdated: 2025-09-28T03:47:20.891Z
+status: down
+code: 502
+responseTime: 3676
+lastUpdated: 2025-09-28T04:30:04.136Z
 startTime: 2025-09-21T13:57:24.942Z
 generator: Upptime <https://github.com/upptime/upptime>
